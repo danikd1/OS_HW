@@ -1,0 +1,3 @@
+/Users/macbookpro/CLionProjects/os_hw8/cmake-build-debug/CMakeFiles/os_hw8.dir
+/Users/macbookpro/CLionProjects/os_hw8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macbookpro/CLionProjects/os_hw8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
